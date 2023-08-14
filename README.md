@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @agdala
-- 👀 I’m interested in Data, IM, UX/UI
-- 🌱 I’m currently learning Fullstack Java+Angular
-- 💞️ I’m looking to collaborate on Data and IM
+- 👀 I’m interested in Data Science, UX/UI
+- 🌱 I’m currently learning Data Science with Python
+- 💞️ I’m looking to collaborate on Data Science and IM
 - 📫 How to reach me [agdast@gmail.com] 
 
 <!---
