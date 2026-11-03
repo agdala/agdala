@@ -9,12 +9,12 @@ Co-lidero grupos interinstitucionais de gestão da informação com o governo fe
 
 ## Ferramentas
 - **Análise e BI:** Power BI (DAX, Power Query), Looker Studio, Excel avançado
-- **Dados:** SQL, Python, R, Microsoft Fabric (lakehouse, arquitetura medalhão, pipelines)
+- **Dados:** SQL, Python, R, dbt, DuckDB, Microsoft Fabric (lakehouse, arquitetura medalhão, pipelines)
 - **Coleta e monitoramento:** KoboToolbox, ODK, ActivityInfo
 - **Outros:** Git e GitHub, Microsoft 365 Copilot, ArcGIS Online
 
 ## Projetos em destaque
-- [SISMIGRA Analytics](https://github.com/agdala/sismigra-analytics): pipeline em camadas (bronze, prata e ouro) com Python e DuckDB sobre 1,36 milhão de registros migratórios públicos, com governança, controle de divulgação e 47 testes automatizados.
+- [SISMIGRA Analytics](https://github.com/agdala/sismigra-analytics) ([documentação dbt](https://agdala.github.io/sismigra-analytics/)): pipeline em camadas (bronze, prata e ouro) com Python, DuckDB e dbt sobre 1,36 milhão de registros migratórios públicos, com governança, controle de divulgação, linhagem documentada e testes automatizados no CI.
 - [Validador de formulários XLSForm](https://github.com/agdala/xlsform-validator) ([demo](https://agdala.github.io/xlsform-validator/)): checa 35 regras de qualidade, consentimento e LGPD em formulários do KoboToolbox e do ODK, direto no navegador e sem enviar o arquivo, e devolve uma planilha anotada com o que corrigir.
 - [JNA 2025: preparação de dados em R](https://github.com/agdala/jna-2025-data-processing-r): limpeza, recodificação e rotulagem dos dados da Avaliação Conjunta de Necessidades 2025 no Brasil.
 - [ETL com Python](https://github.com/agdala/Desafio-Santander-Python): extração, transformação e carga de dados.
