@@ -16,6 +16,7 @@ Co-lidero grupos interinstitucionais de gestão da informação com o governo fe
 ## Inteligência Artificial
 - **Ferramentas:** Claude (incluindo Claude Code), Microsoft 365 Copilot, Gemini, ChatGPT
 - **Como uso:** desenvolvimento e revisão de código em Python, SQL, R e DAX, documentação técnica e automação de rotinas de dados, sempre com revisão humana e testes
+- **Proteção de dados:** não insiro dados pessoais ou sensíveis em ferramentas de IA; uso dados sintéticos, anonimizados ou agregados, em linha com a LGPD e as políticas de proteção de dados da organização
 - **Neste portfólio:** o SISMIGRA Analytics e o Validador XLSForm foram desenvolvidos com apoio de IA (Claude Code), com decisões de arquitetura, regras de negócio e validação feitas por mim
 
 ## Projetos em destaque
