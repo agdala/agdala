@@ -11,7 +11,12 @@ Co-lidero grupos interinstitucionais de gestão da informação com o governo fe
 - **Análise e BI:** Power BI (DAX, Power Query), Looker Studio, Excel avançado
 - **Dados:** SQL, Python, R, dbt, DuckDB, Microsoft Fabric (lakehouse, arquitetura medalhão, pipelines)
 - **Coleta e monitoramento:** KoboToolbox, ODK, ActivityInfo
-- **Outros:** Git e GitHub, Microsoft 365 Copilot, ArcGIS Online
+- **Outros:** Git e GitHub, ArcGIS Online
+
+## Inteligência Artificial
+- **Ferramentas:** Claude (incluindo Claude Code), Microsoft 365 Copilot, Gemini, ChatGPT
+- **Como uso:** desenvolvimento e revisão de código em Python, SQL, R e DAX, documentação técnica e automação de rotinas de dados, sempre com revisão humana e testes
+- **Neste portfólio:** o SISMIGRA Analytics e o Validador XLSForm foram desenvolvidos com apoio de IA (Claude Code), com decisões de arquitetura, regras de negócio e validação feitas por mim
 
 ## Projetos em destaque
 - [SISMIGRA Analytics](https://github.com/agdala/sismigra-analytics) ([documentação dbt](https://agdala.github.io/sismigra-analytics/)): pipeline em camadas (bronze, prata e ouro) com Python, DuckDB e dbt sobre 1,36 milhão de registros migratórios públicos, com governança, controle de divulgação, linhagem documentada e testes automatizados no CI.
