@@ -26,5 +26,18 @@ Co-lidero grupos interinstitucionais de gestão da informação com o governo fe
 - [Monitoramento 5W](https://github.com/agdala/monitoring-5w-kit) ([relatório](https://agdala.github.io/monitoring-5w-kit/)): validação dos relatos mensais de parceiros (99% dos erros injetados detectados, com pendências por parceiro), metas vs. realizado por UF com mapa e comparação de métodos para estimar pessoas únicas sem dupla contagem (a soma simples superestima 16,5%; o método adotado erra 8,2%), com controle de divulgação (k = 5), sobre dados sintéticos.
 - [JNA 2025: preparação de dados em R](https://github.com/agdala/jna-2025-data-processing-r): limpeza, recodificação e rotulagem dos dados da Avaliação Conjunta de Necessidades 2025 no Brasil.
 
+## In English
+**Data and Information Management Analyst** | Power BI | SQL | Python | Microsoft Fabric | Data Governance
+
+I have worked with data at UNHCR, the UN Refugee Agency, in Brasília for 8 years. I structure and integrate databases with more than 500,000 records, build dashboards for management, donors and the Brazilian federal government, and look after data quality and governance under the LGPD (Brazil's General Data Protection Law). I co-lead interagency information management groups with the federal government and UN agencies.
+
+Portfolio, covering the full data cycle (each repository has an English README):
+- **Collect:** [XLSForm validator](https://github.com/agdala/xlsform-validator): checks 35 quality, consent and data protection rules in KoboToolbox and ODK forms, in the browser.
+- **Transform and publish:** [SISMIGRA Analytics](https://github.com/agdala/sismigra-analytics): Python, DuckDB and dbt pipeline over 1.36 million public migration records, with tested data quality and statistical disclosure control.
+- **Integrate:** [Record linkage](https://github.com/agdala/record-linkage-kit): deduplication and matching of registries with blocking, Portuguese phonetic keys, human review and a pseudonymised mode; 99.8% precision and 94.8% automatic recall on synthetic data.
+- **Monitor:** [5W monitoring](https://github.com/agdala/monitoring-5w-kit): validation of partner reports, targets vs. achievements by state and estimation of unique people without double counting, on synthetic data.
+
+AI tools (Claude, Microsoft 365 Copilot, Gemini, ChatGPT) support my coding and documentation, always with human review and tests, and never with personal or sensitive data.
+
 ## Contato
 [LinkedIn](https://www.linkedin.com/in/agdasantos/) | contato.agdasantos@gmail.com
