@@ -26,4 +26,4 @@ Co-lidero grupos interinstitucionais de gestão da informação com o governo fe
 - [JNA 2025: preparação de dados em R](https://github.com/agdala/jna-2025-data-processing-r): limpeza, recodificação e rotulagem dos dados da Avaliação Conjunta de Necessidades 2025 no Brasil.
 
 ## Contato
-[LinkedIn](https://www.linkedin.com/in/agdasantos/) | agdast@gmail.com
+[LinkedIn](https://www.linkedin.com/in/agdasantos/) | contato.agdasantos@gmail.com
