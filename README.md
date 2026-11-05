@@ -17,11 +17,12 @@ Co-lidero grupos interinstitucionais de gestão da informação com o governo fe
 - **Ferramentas:** Claude (incluindo Claude Code), Microsoft 365 Copilot, Gemini, ChatGPT
 - **Como uso:** desenvolvimento e revisão de código em Python, SQL, R e DAX, documentação técnica e automação de rotinas de dados, sempre com revisão humana e testes
 - **Proteção de dados:** não insiro dados pessoais ou sensíveis em ferramentas de IA; uso dados sintéticos, anonimizados ou agregados, em linha com a LGPD e as políticas de proteção de dados da organização
-- **Neste portfólio:** o SISMIGRA Analytics e o Validador XLSForm foram desenvolvidos com apoio de IA (Claude Code), com decisões de arquitetura, regras de negócio e validação feitas por mim
+- **Neste portfólio:** o SISMIGRA Analytics, o Validador XLSForm e o Cruzamento de bases foram desenvolvidos com apoio de IA (Claude Code), com decisões de arquitetura, regras de negócio e validação feitas por mim
 
 ## Projetos em destaque
 - [SISMIGRA Analytics](https://github.com/agdala/sismigra-analytics) ([documentação dbt](https://agdala.github.io/sismigra-analytics/)): pipeline em camadas (bronze, prata e ouro) com Python, DuckDB e dbt sobre 1,36 milhão de registros migratórios públicos, com governança, controle de divulgação, linhagem documentada e testes automatizados no CI.
 - [Validador de formulários XLSForm](https://github.com/agdala/xlsform-validator) ([demo](https://agdala.github.io/xlsform-validator/)): checa 35 regras de qualidade, consentimento e LGPD em formulários do KoboToolbox e do ODK, direto no navegador e sem enviar o arquivo, e devolve uma planilha anotada com o que corrigir.
+- [Cruzamento de bases (record linkage)](https://github.com/agdala/record-linkage-kit) ([relatório](https://agdala.github.io/record-linkage-kit/)): deduplicação e pareamento de cadastros com blocagem, chave fonética para o português, fila de revisão humana e modo pseudonimizado (HMAC); limiar escolhido pelo custo assimétrico do erro, com precisão de 99,8% e recall de 94,8% automático, chegando a 99,4% após a revisão, sobre dados sintéticos.
 - [JNA 2025: preparação de dados em R](https://github.com/agdala/jna-2025-data-processing-r): limpeza, recodificação e rotulagem dos dados da Avaliação Conjunta de Necessidades 2025 no Brasil.
 
 ## Contato
